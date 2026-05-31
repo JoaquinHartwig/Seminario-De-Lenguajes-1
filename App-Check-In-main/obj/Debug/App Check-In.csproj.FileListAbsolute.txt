@@ -1,0 +1,11 @@
+C:\Users\joaqu\source\repos\App Check-In\App Check-In\bin\Debug\App Check-In.exe.config
+C:\Users\joaqu\source\repos\App Check-In\App Check-In\bin\Debug\App Check-In.exe
+C:\Users\joaqu\source\repos\App Check-In\App Check-In\bin\Debug\App Check-In.pdb
+C:\Users\joaqu\source\repos\App Check-In\App Check-In\obj\Debug\App Check-In.csproj.AssemblyReference.cache
+C:\Users\joaqu\source\repos\App Check-In\App Check-In\obj\Debug\App_Check_In.Form1.resources
+C:\Users\joaqu\source\repos\App Check-In\App Check-In\obj\Debug\App_Check_In.Properties.Resources.resources
+C:\Users\joaqu\source\repos\App Check-In\App Check-In\obj\Debug\App Check-In.csproj.GenerateResource.cache
+C:\Users\joaqu\source\repos\App Check-In\App Check-In\obj\Debug\App Check-In.csproj.CoreCompileInputs.cache
+C:\Users\joaqu\source\repos\App Check-In\App Check-In\obj\Debug\App Check-In.exe
+C:\Users\joaqu\source\repos\App Check-In\App Check-In\obj\Debug\App Check-In.pdb
+C:\Users\joaqu\source\repos\App Check-In\App Check-In\obj\Debug\App_Check_In.Form2.resources
