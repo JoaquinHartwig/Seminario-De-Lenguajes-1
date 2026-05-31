@@ -1,0 +1,152 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\JoaAFX\\source\\repos\\Estructuras de Control IF, THEN, ELSE, ELSEIF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6693C0EF-9CFE-4980-B0B9-B89742843BF5}|Estructuras de Control IF, THEN, ELSE, ELSEIF\\Estructuras de Control IF, THEN, ELSE, ELSEIF.csproj|c:\\users\\joaafx\\source\\repos\\estructuras de control if, then, else, elseif\\estructuras de control if, then, else, elseif\\fechas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6693C0EF-9CFE-4980-B0B9-B89742843BF5}|Estructuras de Control IF, THEN, ELSE, ELSEIF\\Estructuras de Control IF, THEN, ELSE, ELSEIF.csproj|solutionrelative:estructuras de control if, then, else, elseif\\fechas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6693C0EF-9CFE-4980-B0B9-B89742843BF5}|Estructuras de Control IF, THEN, ELSE, ELSEIF\\Estructuras de Control IF, THEN, ELSE, ELSEIF.csproj|c:\\users\\joaafx\\source\\repos\\estructuras de control if, then, else, elseif\\estructuras de control if, then, else, elseif\\fechas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6693C0EF-9CFE-4980-B0B9-B89742843BF5}|Estructuras de Control IF, THEN, ELSE, ELSEIF\\Estructuras de Control IF, THEN, ELSE, ELSEIF.csproj|solutionrelative:estructuras de control if, then, else, elseif\\fechas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6693C0EF-9CFE-4980-B0B9-B89742843BF5}|Estructuras de Control IF, THEN, ELSE, ELSEIF\\Estructuras de Control IF, THEN, ELSE, ELSEIF.csproj|c:\\users\\joaafx\\source\\repos\\estructuras de control if, then, else, elseif\\estructuras de control if, then, else, elseif\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6693C0EF-9CFE-4980-B0B9-B89742843BF5}|Estructuras de Control IF, THEN, ELSE, ELSEIF\\Estructuras de Control IF, THEN, ELSE, ELSEIF.csproj|solutionrelative:estructuras de control if, then, else, elseif\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6693C0EF-9CFE-4980-B0B9-B89742843BF5}|Estructuras de Control IF, THEN, ELSE, ELSEIF\\Estructuras de Control IF, THEN, ELSE, ELSEIF.csproj|c:\\users\\joaafx\\source\\repos\\estructuras de control if, then, else, elseif\\estructuras de control if, then, else, elseif\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6693C0EF-9CFE-4980-B0B9-B89742843BF5}|Estructuras de Control IF, THEN, ELSE, ELSEIF\\Estructuras de Control IF, THEN, ELSE, ELSEIF.csproj|solutionrelative:estructuras de control if, then, else, elseif\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6693C0EF-9CFE-4980-B0B9-B89742843BF5}|Estructuras de Control IF, THEN, ELSE, ELSEIF\\Estructuras de Control IF, THEN, ELSE, ELSEIF.csproj|c:\\users\\joaafx\\source\\repos\\estructuras de control if, then, else, elseif\\estructuras de control if, then, else, elseif\\leer3numeroscs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6693C0EF-9CFE-4980-B0B9-B89742843BF5}|Estructuras de Control IF, THEN, ELSE, ELSEIF\\Estructuras de Control IF, THEN, ELSE, ELSEIF.csproj|solutionrelative:estructuras de control if, then, else, elseif\\leer3numeroscs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6693C0EF-9CFE-4980-B0B9-B89742843BF5}|Estructuras de Control IF, THEN, ELSE, ELSEIF\\Estructuras de Control IF, THEN, ELSE, ELSEIF.csproj|c:\\users\\joaafx\\source\\repos\\estructuras de control if, then, else, elseif\\estructuras de control if, then, else, elseif\\leer3numeroscs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6693C0EF-9CFE-4980-B0B9-B89742843BF5}|Estructuras de Control IF, THEN, ELSE, ELSEIF\\Estructuras de Control IF, THEN, ELSE, ELSEIF.csproj|solutionrelative:estructuras de control if, then, else, elseif\\leer3numeroscs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6693C0EF-9CFE-4980-B0B9-B89742843BF5}|Estructuras de Control IF, THEN, ELSE, ELSEIF\\Estructuras de Control IF, THEN, ELSE, ELSEIF.csproj|c:\\users\\joaafx\\source\\repos\\estructuras de control if, then, else, elseif\\estructuras de control if, then, else, elseif\\calificacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6693C0EF-9CFE-4980-B0B9-B89742843BF5}|Estructuras de Control IF, THEN, ELSE, ELSEIF\\Estructuras de Control IF, THEN, ELSE, ELSEIF.csproj|solutionrelative:estructuras de control if, then, else, elseif\\calificacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6693C0EF-9CFE-4980-B0B9-B89742843BF5}|Estructuras de Control IF, THEN, ELSE, ELSEIF\\Estructuras de Control IF, THEN, ELSE, ELSEIF.csproj|c:\\users\\joaafx\\source\\repos\\estructuras de control if, then, else, elseif\\estructuras de control if, then, else, elseif\\leern\u00FAmeros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6693C0EF-9CFE-4980-B0B9-B89742843BF5}|Estructuras de Control IF, THEN, ELSE, ELSEIF\\Estructuras de Control IF, THEN, ELSE, ELSEIF.csproj|solutionrelative:estructuras de control if, then, else, elseif\\leern\u00FAmeros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Fechas.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\JoaAFX\\source\\repos\\Estructuras de Control IF, THEN, ELSE, ELSEIF\\Estructuras de Control IF, THEN, ELSE, ELSEIF\\Fechas.cs",
+              "RelativeDocumentMoniker": "Estructuras de Control IF, THEN, ELSE, ELSEIF\\Fechas.cs",
+              "ToolTip": "C:\\Users\\JoaAFX\\source\\repos\\Estructuras de Control IF, THEN, ELSE, ELSEIF\\Estructuras de Control IF, THEN, ELSE, ELSEIF\\Fechas.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Estructuras de Control IF, THEN, ELSE, ELSEIF\\Fechas.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T06:25:05.019Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Leer3Numeroscs.cs",
+              "DocumentMoniker": "C:\\Users\\JoaAFX\\source\\repos\\Estructuras de Control IF, THEN, ELSE, ELSEIF\\Estructuras de Control IF, THEN, ELSE, ELSEIF\\Leer3Numeroscs.cs",
+              "RelativeDocumentMoniker": "Estructuras de Control IF, THEN, ELSE, ELSEIF\\Leer3Numeroscs.cs",
+              "ToolTip": "C:\\Users\\JoaAFX\\source\\repos\\Estructuras de Control IF, THEN, ELSE, ELSEIF\\Estructuras de Control IF, THEN, ELSE, ELSEIF\\Leer3Numeroscs.cs",
+              "RelativeToolTip": "Estructuras de Control IF, THEN, ELSE, ELSEIF\\Leer3Numeroscs.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAQwA8AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T06:10:13.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\JoaAFX\\source\\repos\\Estructuras de Control IF, THEN, ELSE, ELSEIF\\Estructuras de Control IF, THEN, ELSE, ELSEIF\\Form1.cs",
+              "RelativeDocumentMoniker": "Estructuras de Control IF, THEN, ELSE, ELSEIF\\Form1.cs",
+              "ToolTip": "C:\\Users\\JoaAFX\\source\\repos\\Estructuras de Control IF, THEN, ELSE, ELSEIF\\Estructuras de Control IF, THEN, ELSE, ELSEIF\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Estructuras de Control IF, THEN, ELSE, ELSEIF\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T05:18:52.631Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\JoaAFX\\source\\repos\\Estructuras de Control IF, THEN, ELSE, ELSEIF\\Estructuras de Control IF, THEN, ELSE, ELSEIF\\Form1.cs",
+              "RelativeDocumentMoniker": "Estructuras de Control IF, THEN, ELSE, ELSEIF\\Form1.cs",
+              "ToolTip": "C:\\Users\\JoaAFX\\source\\repos\\Estructuras de Control IF, THEN, ELSE, ELSEIF\\Estructuras de Control IF, THEN, ELSE, ELSEIF\\Form1.cs",
+              "RelativeToolTip": "Estructuras de Control IF, THEN, ELSE, ELSEIF\\Form1.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAADgvygAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T05:24:34.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Fechas.cs",
+              "DocumentMoniker": "C:\\Users\\JoaAFX\\source\\repos\\Estructuras de Control IF, THEN, ELSE, ELSEIF\\Estructuras de Control IF, THEN, ELSE, ELSEIF\\Fechas.cs",
+              "RelativeDocumentMoniker": "Estructuras de Control IF, THEN, ELSE, ELSEIF\\Fechas.cs",
+              "ToolTip": "C:\\Users\\JoaAFX\\source\\repos\\Estructuras de Control IF, THEN, ELSE, ELSEIF\\Estructuras de Control IF, THEN, ELSE, ELSEIF\\Fechas.cs",
+              "RelativeToolTip": "Estructuras de Control IF, THEN, ELSE, ELSEIF\\Fechas.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAADgvx8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T06:34:21.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Leer3Numeroscs.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\JoaAFX\\source\\repos\\Estructuras de Control IF, THEN, ELSE, ELSEIF\\Estructuras de Control IF, THEN, ELSE, ELSEIF\\Leer3Numeroscs.cs",
+              "RelativeDocumentMoniker": "Estructuras de Control IF, THEN, ELSE, ELSEIF\\Leer3Numeroscs.cs",
+              "ToolTip": "C:\\Users\\JoaAFX\\source\\repos\\Estructuras de Control IF, THEN, ELSE, ELSEIF\\Estructuras de Control IF, THEN, ELSE, ELSEIF\\Leer3Numeroscs.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Estructuras de Control IF, THEN, ELSE, ELSEIF\\Leer3Numeroscs.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T06:06:16.799Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Calificacion.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\JoaAFX\\source\\repos\\Estructuras de Control IF, THEN, ELSE, ELSEIF\\Estructuras de Control IF, THEN, ELSE, ELSEIF\\Calificacion.cs",
+              "RelativeDocumentMoniker": "Estructuras de Control IF, THEN, ELSE, ELSEIF\\Calificacion.cs",
+              "ToolTip": "C:\\Users\\JoaAFX\\source\\repos\\Estructuras de Control IF, THEN, ELSE, ELSEIF\\Estructuras de Control IF, THEN, ELSE, ELSEIF\\Calificacion.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Estructuras de Control IF, THEN, ELSE, ELSEIF\\Calificacion.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T05:48:36.925Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LeerN\u00FAmeros.cs",
+              "DocumentMoniker": "C:\\Users\\JoaAFX\\source\\repos\\Estructuras de Control IF, THEN, ELSE, ELSEIF\\Estructuras de Control IF, THEN, ELSE, ELSEIF\\LeerN\u00FAmeros.cs",
+              "RelativeDocumentMoniker": "Estructuras de Control IF, THEN, ELSE, ELSEIF\\LeerN\u00FAmeros.cs",
+              "ToolTip": "C:\\Users\\JoaAFX\\source\\repos\\Estructuras de Control IF, THEN, ELSE, ELSEIF\\Estructuras de Control IF, THEN, ELSE, ELSEIF\\LeerN\u00FAmeros.cs",
+              "RelativeToolTip": "Estructuras de Control IF, THEN, ELSE, ELSEIF\\LeerN\u00FAmeros.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAjwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T05:43:46.542Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
