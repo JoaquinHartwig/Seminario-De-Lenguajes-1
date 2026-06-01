@@ -38,49 +38,50 @@
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(314, 34);
+            this.label1.Font = new System.Drawing.Font("Microsoft Tai Le", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label1.Location = new System.Drawing.Point(130, 41);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(99, 13);
+            this.label1.Size = new System.Drawing.Size(158, 21);
             this.label1.TabIndex = 0;
             this.label1.Text = "Inicio de Ejercicio 1";
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(225, 115);
+            this.button1.Location = new System.Drawing.Point(111, 111);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(63, 54);
             this.button1.TabIndex = 1;
-            this.button1.Text = "button1";
+            this.button1.Text = "Parte 1";
             this.button1.UseVisualStyleBackColor = true;
             this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // button2
             // 
-            this.button2.Location = new System.Drawing.Point(379, 99);
+            this.button2.Location = new System.Drawing.Point(250, 111);
             this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(75, 70);
+            this.button2.Size = new System.Drawing.Size(63, 54);
             this.button2.TabIndex = 2;
-            this.button2.Text = "button2";
+            this.button2.Text = "Parte 2";
             this.button2.UseVisualStyleBackColor = true;
             this.button2.Click += new System.EventHandler(this.button2_Click);
             // 
             // button3
             // 
-            this.button3.Location = new System.Drawing.Point(225, 237);
+            this.button3.Location = new System.Drawing.Point(111, 231);
             this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(46, 32);
+            this.button3.Size = new System.Drawing.Size(63, 54);
             this.button3.TabIndex = 3;
-            this.button3.Text = "button3";
+            this.button3.Text = "Parte 3";
             this.button3.UseVisualStyleBackColor = true;
             this.button3.Click += new System.EventHandler(this.button3_Click);
             // 
             // button4
             // 
-            this.button4.Location = new System.Drawing.Point(389, 222);
+            this.button4.Location = new System.Drawing.Point(250, 231);
             this.button4.Name = "button4";
-            this.button4.Size = new System.Drawing.Size(51, 63);
+            this.button4.Size = new System.Drawing.Size(63, 54);
             this.button4.TabIndex = 4;
-            this.button4.Text = "button4";
+            this.button4.Text = "Parte 4";
             this.button4.UseVisualStyleBackColor = true;
             this.button4.Click += new System.EventHandler(this.button4_Click);
             // 
@@ -88,7 +89,8 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.BackColor = System.Drawing.SystemColors.ActiveCaption;
+            this.ClientSize = new System.Drawing.Size(447, 368);
             this.Controls.Add(this.button4);
             this.Controls.Add(this.button3);
             this.Controls.Add(this.button2);
